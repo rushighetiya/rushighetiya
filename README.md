@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building scalable Full Stack applications with modern technologies  <br>- 🤝 Open to collaboration on innovative and impactful projects  <br>- 🧠 Exploring system design, APIs, and backend performance  <br>- 🌱 Currently mastering React, Node.js & databases  <br>- 💬 Ask me about Full Stack Development & problem-solving  <br>- ⚡ Fun fact: I enjoy transforming complex ideas into simple solutions
+-🔭 Building scalable Full Stack applications with modern technologies  <br>- 🤝 Open to collaboration on innovative and impactful projects  <br>- 🧠 Exploring system design, APIs, and backend performance  <br>- 🌱 Currently mastering React, Node.js & databases  <br>- 💬 Ask me about Full Stack Development & problem-solving  <br>- ⚡ Fun fact: I enjoy transforming complex ideas into simple solutions
 
 
 ## 🌐 Socials:
